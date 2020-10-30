@@ -14,7 +14,7 @@
 
 ## about project
 
-This is a reveal game where a user inputs a word and it reverses for them and tells them whether the input is reversable or not.
+A list of algorithms solved in python.
 <hr>
 
 
